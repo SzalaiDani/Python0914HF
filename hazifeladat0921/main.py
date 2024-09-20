@@ -1,0 +1,12 @@
+#import hetesFeladat
+#import nyolcasFeladat
+#import kilencesFeladat
+#import tizesFeladat
+#import tizennegyesFeladat
+#import tizenotosFeladat
+#import tizenhatosFeladat
+#import tizenhetesFeladat
+#import tizennyolcasFeladat
+#import tizenkilencesFeladat
+#import huszasFeladat
+import huszonegyesFeladat
